@@ -1,0 +1,7 @@
+## O Papel dos Bancos de Dados SQL e NoSQL na Engenharia de Dados
+### Engenheiro de Dados:
+ O Engenheiro de Dados tem papel fundamental em todas as etapas relacionadas aos dados, desde a modelagem, infraestrutura, alimentação e apoio a equipe de cientista de dados. Tem como papel criar e implementar soluções para criação e manutenção do banco de dados, além de ter olhar crítico e saber quais ferramentas devem ser utilizadas de acordo com a necessidade. Tem amplo conhecimento nos tipos de SGBDs e suas aplicabilidade.
+### SQL:
+Os bancos de dados do tipo SQL são foram os primeiros a surgir, ideal para persistência de dados consistentes. Por ser relacional, sua aplicabilidade funciona muito bem em sistemas mais complexos como E-commerce ou outras que envolvam transações financeiras. Possui limitações quanto a escalabilidade e performance, prezando pela consistência e ligação de suas tabelas.
+### NoSQL:
+Os SGBDs não-relacionais são tecnologias muito recentes se comparadas aos relacionais. Devido aos avanços tecnológicos e crescimento massivo dos dados, surgiu a necessidade de um banco de dados com maior desempenho e capacidade. Os NoSQL surgiram como uma alternativa aos SQL, podendo ser aplicados em situações que teriam grandes limitações caso optassem pelo SQL. Apesar dos dados menos consistentes, a escalabilidade dos sistemas NoSQL tem uma capacidade gigantesca, conversando bastante com a ideia de Big Data;
